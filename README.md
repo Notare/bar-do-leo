@@ -1,7 +1,5 @@
-# Cuisine Restaurant Wireframe
+# Bar do Léo (Restaurant)
 
-Original: https://dribbble.com/shots/12927498-Cuisine-Restaurant-Website
-
-My attempt: https://notare.github.io/cuisine-restaurant
+https://notare.github.io/bar-do-leo
 
 Tech used: HTML and CSS
