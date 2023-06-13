@@ -1,4 +1,4 @@
-# Bar do Léo (Restaurant)
+# Bar do Léo (Bar/restaurant)
 
 https://bardoleo.netlify.app
 
