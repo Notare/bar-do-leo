@@ -1,5 +1,5 @@
 # Bar do Léo (Restaurant)
 
-https://notare.github.io/bar-do-leo
+https://bardoleo.netlify.app
 
 Tech used: HTML and CSS
