@@ -4,6 +4,8 @@ A website for a friendly local establishment, Bar do Léo, where people can gath
 
 **Link to project:** https://bardoleo.netlify.app
 
+<img src="./images/leo.gif" alt="A gif showing a demo of the project">
+
 ## How It's Made:
 
 **Tech used:** HTML and CSS
